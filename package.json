@@ -1,13 +1,12 @@
 {
   "name": "semana-23",
   "version": "1.0.0",
-  "description": "",
+  "description": "Atividade de CI/CD com GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "type": "commonjs"
 }
